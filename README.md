@@ -6,6 +6,10 @@ This repository contains documentation and code for Normalized Difference Salint
 ## Images to Analyse
 Within the scope of this project, necessary images those are sensed and produced by Landsat 5(TM) are obtained from USGS Earth Explorer. 
 
+-Acquisition Date of Image: 11.09.2011
+-WRS Path= 180
+-WRS Row= 031
+
 ***
 
 ## Normalized Difference Salinity Index(NDSI)
