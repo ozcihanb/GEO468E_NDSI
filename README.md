@@ -26,4 +26,4 @@ Normalized Difference Salinity Index is used to determine the salinity situation
 
 ***
 
-- ! [ITU_logo.png](Logo/ITU_logo.png)
+- ![ITU_logo.png](Logo/ITU_logo.png)
