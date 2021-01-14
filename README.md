@@ -9,7 +9,9 @@ Within the scope of this project, necessary images those are sensed and produced
 ***
 
 ## Normalized Difference Salinity Index(NDSI)
-Normalized Difference Salinity Index is used to determine the salinity situation of soil. NDSI is calculated by the formula: (SWIR1-SWIR2)/(SWIR1+SWIR2) for Landsat 4-5 images.
+Normalized Difference Salinity Index is used to determine the salinity situation of soil. NDSI is calculated by the formula:
+
+- (SWIR1-SWIR2)/(SWIR1+SWIR2) for Landsat 4-5 images.
 
 ***
 
