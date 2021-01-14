@@ -1,5 +1,3 @@
-- ! [ITU_logo.png](Logo/ITU_logo.png)
-
 # GEO468E Course - Jupyter Notebook Application
 This repository contains documentation and code for Normalized Difference Salinty Index application via Jupyter Notebook within this course.
 
@@ -23,3 +21,7 @@ Normalized Difference Salinity Index is used to determine the salinity situation
 - **Band 5** - Short-wave Infrared-1
 - **Band 6** - Thermal Infrared
 - **Band 7** - Short-wave Infrared-2
+
+***
+
+- ! [ITU_logo.png](Logo/ITU_logo.png)
