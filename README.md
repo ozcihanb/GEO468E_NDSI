@@ -30,4 +30,8 @@ Normalized Difference Salinity Index is used to determine the salinity situation
 
 ***
 
+- Prepared by Buğrahan Özcihan
+
+***
+
 - ![ITU_logo.png](Logo/ITU_logo.png)
