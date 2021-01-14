@@ -1,7 +1,7 @@
 - ! [ITU_logo.png](Logo/ITU_logo.png)
 
 # GEO468E Course - Jupyter Notebook Application
-This repository contains documentation and code for Normalized Difference Salinty Index application within this course.
+This repository contains documentation and code for Normalized Difference Salinty Index application via Jupyter Notebook within this course.
 
 ***
 
