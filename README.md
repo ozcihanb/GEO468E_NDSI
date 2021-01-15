@@ -30,6 +30,14 @@ Normalized Difference Salinity Index is used to determine the salinity situation
 
 ***
 
+## Used Libraries
+- Rasterio
+- matplotlib
+- numpy
+- skimage
+
+***
+
 - Prepared by Buğrahan Özcihan
 
 ***
