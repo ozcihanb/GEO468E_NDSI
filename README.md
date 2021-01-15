@@ -34,7 +34,7 @@ Normalized Difference Salinity Index is used to determine the salinity situation
 - Rasterio
 - matplotlib
 - numpy
-- skimage
+- scikit-image
 
 ***
 
